@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MAD_Money_Management</string>
+    <string name="appname">MoneyManager</string>
+    <string name="income">Income</string>
+    <string name="name">Tharusha</string>
+    <string name="email">tharushanelligahawaththa@gmail.com</string>
+    <string name="ExpensesHead">Expenses</string>
+    <string name="MainHeader">Money Manager</string>
+    <string name="categoty1">Rental</string>
+    <string name="cate1">Reantal</string>
+    <string name="amount">LKR 12500</string>
+    <string name="expenDescription">for living apartment</string>
+    <string name="expenDate">16.03.2023</string>
+    <string name="cate2">For Foods</string>
+    <string name="cate3">Fuel</string>
+    <string name="amount3">LKR 8000</string>
+    <string name="amount2">LKR 15000</string>
+    <string name="date">date</string>
+    <string name="date1">date1</string>
+    <string name="AddExpenses">Add Expenses</string>
+    <string name="BtnSubmit">Submit</string>
+    <string name="menuBar">menu</string>
+    <string name="header">Money Manager</string>
+    <string name="headerLayout">headerLayout</string>
+    <string name="Usericon">User</string>
+    <string name="fromCatagory">Catagory</string>
+    <string name="formAmount">Amount</string>
+    <string name="FormDescription">Description</string>
+    <string name="fromDate">Date</string>
+    <string name="contributerName1">Abyrathna M.A</string>
+    <string name="aboutus">About Us</string>
+    <string name="contributeName2">Munasinghe L.S</string>
+    <string name="contributename3">Nelligahawaththa A D T B</string>
+    <string name="aboutUsdes">You may manage your income and expenses using this application, we hope. That is the reason we developed this app.</string>
+</resources>

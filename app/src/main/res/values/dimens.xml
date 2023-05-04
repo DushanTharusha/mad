@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="addCategory">50dp</dimen>
+    <dimen name="menuwidth">399dp</dimen>
+    <dimen name="menuheight">239dp</dimen>
+    <dimen name="profileWidth">49dp</dimen>
+    <dimen name="profileHeight">47dp</dimen>
+    <dimen name="menuBarWidth">39dp</dimen>
+    <dimen name="menuBarHeight">39dp</dimen>
+    <dimen name="subBtnWidth">290dp</dimen>
+    <dimen name="homeBtnWidth">83dp</dimen>
+    <dimen name="linearLayoutWidth3">336dp</dimen>
+    <dimen name="linearLayoutHeight">52dp</dimen>
+    <dimen name="AddExpensesWidth">240dp</dimen>
+    <dimen name="ExpensesWidth">262dp</dimen>
+    <dimen name="ExpensesHeght">60dp</dimen>
+    <dimen name="descriptionW1">357dp</dimen>
+    <dimen name="descriptionH1">160dp</dimen>
+    <dimen name="layout2Width">378dp</dimen>
+    <dimen name="layout2Height">621dp</dimen>
+    <dimen name="layout8Width">357dp</dimen>
+    <dimen name="layout8Heght" />
+    <dimen name="layout8Height">93dp</dimen>
+</resources>
